@@ -13,12 +13,12 @@
         
         <br>
         
-        <h2 style="color:black"><b><u>I Am Ashutosh Bharati.</u></b></h2> 
+        <h2 style="color:black"><b><u>I am Ashutosh Bharati</u></b></h2> 
         <br>
         
         <div class="row">
             <div class="col-md-9">
-                <h5 style="color:rgb(0, 0, 0)"><b>A Second Year Student Pursuing- Btech , Computer science 
+                <h5 style="color:rgb(0, 0, 0)"><b>A Second Year Student Pursuing- Btech in Computer science 
                 from <u>IIEST,Shibpur.</u></b></h5> 
             </div>
         </div>

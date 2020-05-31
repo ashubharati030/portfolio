@@ -30,12 +30,12 @@
                 <div class="card-body text-left">
                     <h5><u>WEB TECHNOLOGIES</u></h5>
                     <ul>
-                        <li><p class="card-text">  HTML(Intermidiate)</p>
-                        <li><p class="card-text">  CSS(Intermidiate)</p>
-                        <li><p class="card-text">  JAVASCRIPT(Intermidiate)</p>
-                        <li><p class="card-text">  PHP(Intermidiate)</p>
-                        <li><p class="card-text">  BOOTSTRAP(Intermidiate)</p>
-                        <li><p class="card-text">  LARAVEL(Intermidiate)</p></li>
+                        <li><p class="card-text">  HTML(Intermediate)</p>
+                        <li><p class="card-text">  CSS(Intermediate)</p>
+                        <li><p class="card-text">  JAVASCRIPT(Intermediate)</p>
+                        <li><p class="card-text">  PHP(Intermediate)</p>
+                        <li><p class="card-text">  BOOTSTRAP(Intermediate)</p>
+                        <li><p class="card-text">  LARAVEL(Intermediate)</p></li>
                     
                     </ul>
                 </div>
