@@ -19,7 +19,7 @@
 					
 					<p><b><u>Linkdin Id</u>:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/ashutosh-bharati-a22b441a4</p>
 					
-					<p><b><u>Website    </u>:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.com</p>
+					<p><b><u>Website    </u>:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://powerful-headland-26946.herokuapp.com/</p>
 				  </h3>
 			
 	</div>
