@@ -2,8 +2,8 @@
 
 
 @section('content')
-<br>
-    <div style="margin-left:30px;margin-right:800px;background:rgb(201, 144, 59)" class="jumbotron float-left"> <!--Jumbotron controls the size of table by its margin attribute-->
+<br><br><br><br>
+    <div style="margin-left:30px;margin-right:800px;background:rgb(201, 144, 59)" class=" jumbotron float-left"> <!--Jumbotron controls the size of table by its margin attribute-->
         <div style="margin-left:0px; margin-right:0px;" class="float-left"> <!--when jumbotron was not there then by margin we used to control size of table-->
             
             <h1><span class="badge badge-success"style="color:black">QUALIFICATION</span></h1>
