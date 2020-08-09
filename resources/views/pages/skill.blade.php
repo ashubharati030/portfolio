@@ -40,7 +40,17 @@
                     </ul>
                 </div>
             </div>
-            
+            <div class="card bg-danger">
+                <div class="card-body text-left">
+                    <h5><u>GRAPHICS</u></h5>
+                    <ul>
+                        <li>
+                            <p class="card-text"> QT(Intermediate) </p>
+                        </li>
+                    
+                    </ul>
+                </div>
+            </div>
             <div class="card bg-success">
                 <div class="card-body text-left">
                     <h5><u>LANGUAGES</u></h5>
