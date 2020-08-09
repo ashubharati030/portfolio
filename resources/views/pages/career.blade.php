@@ -23,8 +23,8 @@
                         <tr class="table-success">
                         <td>Indian Institute of Engineering Science And Technology(IIEST), Shibpur</td>
                         <td>Howrah-711103, West Bengal </td>
-                        <td>Second Year -4th Semester, Btech, Computer Science</td>
-                        <td>CGPA - 8.97(till 3rd semester)</td>
+                        <td>Third Year -5th Semester, Btech, Computer Science</td>
+                        <td>CGPA - 9.04(till 4th semester)</td>
                         <td>July 2018-2022</td>
                         
                         </tr>
